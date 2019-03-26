@@ -8,6 +8,10 @@ Základní opatření než vyrazíte na cesty: *Vyberte správný čas* – Je j
 *Nastavte si rozpočet* – Je důležité vědět, kolik si můžete dovolit utratit. Sledujte, kolik vám ještě zbývá, a kupujte opravdu jen to, co je pro vás opravdu nepostradatelné. To je však individuální. Pro někoho je důležitější dobré ubytování, jiný cestuje za kurzem potápění.
 *Vyberte správný cíl* – Některé lokality jsou o hodně dražší než jiné. Třeba v Indii bude určitě levněji než v Africe, přitom v obou destinacích poznáte kulturu rozvojové země.
 
+Nezávisle na tom, co vám říkají cestovky a známí, cestování není drahé a můžete si ho dovolit, pokud tedy opravdu chcete. Vše, co vás ve skutečnosti dělí od vaší vysněné cesty, není tučné konto, ale změna myšlení.
+
+To, že začnete cestovat, neznamená, že musíte pustit k vodě svojí kariéru – naopak, ze zahraničí ji můžete rozvíjet, navštěvovat kurzy, kde se zdokonalíte, založit online byznys jen tak bokem…možností je neomezeně.
+
 **Těmto aspektům ,a ještě mnoha dalším, bych se chtěla v mém semestrálním projektu věnovat a rozvíjet je. Posílat do světa plno nápadů a triků, zkušeností známých i neznámých cestovatelů. To vše pohromadě na jednom virtuálním místě.**
 
 Zdroje:
