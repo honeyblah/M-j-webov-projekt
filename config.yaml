@@ -1,5 +1,5 @@
-title: My New Hugo Site
-baseURL: https://xyz.netlify.com/
+title: 
+baseURL: https://stoic-shirley-c6e0ce.netlify.com
 languageCode: cs-cz
 publishDir: public
 
