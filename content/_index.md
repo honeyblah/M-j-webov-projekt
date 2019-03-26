@@ -1,27 +1,16 @@
----
-title: Home
----
+# Low Cost Cestování
 
-# Hello World! (It works!)
+***Chci informovat a především donutit k přemýšlení širší skupinu, hlavně mladých, lidí, aby se vnesly do vědomí výhody a zážitky levného cestování, díky kterému se dá také poznat svět (a často mnohem víc než za hrůzu peněz).***
 
-This are the contents of the Hugo start website front page.
+Jezdit po světě levně by chtěl každý, ale ten skutečný low cost není pro každého. Každý z nás má totiž své vlastní hranice pohodlí a představy o dobrodružství posunuté trochu jinam. Low cost znamená vzdát se mnoha věcí, včetně více a často i méně luxusního ubytování a stravování. Pokud ale chcete cestovat bez pozlátek a doopravdy je pro vás levné cestování určitě tou správnou cestou. Bohaté zážitky jsou při něm totiž zaručeny a častokrát jsou mnohem lepší a nezapomenutelnější než zážitky z cestování za mnoho peněz s cestovní agenturou, která Vám nikdy neukáže, kde se dělá ten nejlepší falafel nebo nejhezčí vyhlídku na město.
 
-## Something to read: Sonnet LXVI.
+Základní opatření než vyrazíte na cesty: *Vyberte správný čas* – Je jasné, že v létě bude všechno nejdražší. Pokud se vydáte mimo sezónu, budou levnější ubytování i letenky.
+*Nastavte si rozpočet* – Je důležité vědět, kolik si můžete dovolit utratit. Sledujte, kolik vám ještě zbývá, a kupujte opravdu jen to, co je pro vás opravdu nepostradatelné. To je však individuální. Pro někoho je důležitější dobré ubytování, jiný cestuje za kurzem potápění.
+*Vyberte správný cíl* – Některé lokality jsou o hodně dražší než jiné. Třeba v Indii bude určitě levněji než v Africe, přitom v obou destinacích poznáte kulturu rozvojové země.
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
+**Těmto aspektům ,a ještě mnoha dalším, bych se chtěla v mém semestrálním projektu věnovat a rozvíjet je. Posílat do světa plno nápadů a triků, zkušeností známých i neznámých cestovatelů. To vše pohromadě na jednom virtuálním místě.**
 
+Zdroje:
+https://www.huskycz.cz/jak-na-low-cost-batuzkarske-cesty#modal-leaving
+http://ioutdoor.cz/uzitecne/low-cost-cestovani-opravdu-to-jde/
+https://www.cestovanibezhranic.cz/lowcost-cestovani/
