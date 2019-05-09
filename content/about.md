@@ -1,7 +1,10 @@
 ---
-title: Low Cost Cestování 
-
+title: About 
+menu:
+  main:
+    weight: 30
 ---
+
 Název: Low Cost Cestování 
 <p>Cílová skupina:  Mladí lidé 20-30 let, kteří studují nebo dostudovali a chtějí levně procestovat svět než se usadí </p>
 <p>5 zásadních webových zdrojů:
