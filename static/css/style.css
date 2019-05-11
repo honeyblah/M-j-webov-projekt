@@ -3,11 +3,44 @@
   max-width: 800px;
   padding: 20px;
 }
+body {
+  background-color:green;
+  }
+ 
+
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
 }
+
+h1{
+  font-family: Bembo;
+  font-size: 24px;
+  text-align: left;
+  color: black;
+  
+ 
+  
+  }
+
+h2{
+  font-family: Bembo;
+  font-size: 20px;
+  text-align: justify;
+  color: black;
+  text decoration: underline;
+  
+  }
+p{
+  font-family: Bembo;
+  font-size: 18px;
+  text-align: left;
+  color: black;
+  text decoration: no;
+  
+  }
+
 
 footer {
   border-top: solid;
