@@ -1,4 +1,4 @@
-# O nás
+# Low Cost Cestování
 
 ***Chci informovat a především donutit k přemýšlení širší skupinu, hlavně mladých, lidí, aby se vnesly do vědomí výhody a zážitky levného cestování, díky kterému se dá také poznat svět (a často mnohem víc než za hrůzu peněz).***
 
