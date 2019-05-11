@@ -9,16 +9,16 @@ Název: Low Cost Cestování
 <p>Cílová skupina:  Mladí lidé 20-30 let, kteří studují nebo dostudovali a chtějí levně procestovat svět než se usadí </p>
 
 <p> Základní obsah:
--	Informovat o možnostech levného cestování – stopování, spolujízda, výhodné letenky atd.
--	Informovat o možnostech levného ubytování – couchsurfing, airbnb, hlídání domu atd.
--	Zveřejňovat blogy, články, videa o levném cestování, tedy sdílet inspiraci
--	Ovšem zmínit i nástrahy levného cestování
--	Zmíníme různé závody v cestování – low cost race atd.
--	Triky a nápady jak si balit na různé druhy cest
--	Co dělat v krizových situacích
--	Co mít vždy u sebe při cestování a jak se nenechat na cestách okrást
--	Výhody cestování sám X výhody cestování v páru nebo s kamarádem
--	Poradíme jak si při cestách přivydělat nebo dokonce vydělávat
+-	Informovat o možnostech levného cestování – stopování, spolujízda, výhodné letenky atd.<br>
+-	Informovat o možnostech levného ubytování – couchsurfing, airbnb, hlídání domu atd.<br>
+-	Zveřejňovat blogy, články, videa o levném cestování, tedy sdílet inspiraci<br>
+-	Ovšem zmínit i nástrahy levného cestování<br>
+-	Zmíníme různé závody v cestování – low cost race atd. <br>
+-	Triky a nápady jak si balit na různé druhy cest <br>
+-	Co dělat v krizových situacích <br>
+-	Co mít vždy u sebe při cestování a jak se nenechat na cestách okrást <br>
+-	Výhody cestování sám X výhody cestování v páru nebo s kamarádem <br>
+-	Poradíme jak si při cestách přivydělat nebo dokonce vydělávat <br>
   
  
 </p>
