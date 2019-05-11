@@ -1,18 +1,18 @@
 ---
-title: Tvorba Moodboardu pro náš web
+title: Archiv
 menu:
   main:
     weight: 30
 ---
 
- 
+ **Tvorba Moodboardu pro náš web**
  
 <p> Zde jsou tři různé moodboardy, tři různé pohledy na naše společné Low Cost cestování <br></p> 
 
 **Moodboard Magdík**
 
  
- <div class="canva-embed" data-design-id="DADYsy_jjGA" data-height-ratio="0.8000" style="padding:80.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADYsy_jjGA&#x2F;view?utm_content=DADYsy_jjGA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Low Cost Cestování</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;magulenka?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">magulenka</a>
+ <a href="https://www.canva.com/design/DADYsy_jjGA/share/preview?token=ag6KUAEiKSd2XdVCDMeRZA&role=EDITOR&utm_content=DADYsy_jjGA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Moodboard 1</a>
 
 
  
