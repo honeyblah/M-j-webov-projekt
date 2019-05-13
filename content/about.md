@@ -19,7 +19,7 @@ Název: Low Cost Cestování
 -	Co mít vždy u sebe při cestování a jak se nenechat na cestách okrást <br>
 -	Výhody cestování sám X výhody cestování v páru nebo s kamarádem <br>
 -	Poradíme jak si při cestách přivydělat nebo dokonce vydělávat <br>
-- jak se vyznat v cizí zemi
+- jak se vyznat v cizí zemi a přežít
   
  
 </p>
