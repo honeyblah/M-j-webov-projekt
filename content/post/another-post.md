@@ -10,7 +10,6 @@ title: Tvorba Moodboardu pro náš web
 
 **Moodboard Magdík**
 
- 
  <a href="https://www.canva.com/design/DADYsy_jjGA/share/preview?token=ag6KUAEiKSd2XdVCDMeRZA&role=EDITOR&utm_content=DADYsy_jjGA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">Moodboard 1</a>
  
  **Hana Bláhová**
