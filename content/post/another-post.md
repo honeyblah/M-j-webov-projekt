@@ -1,7 +1,5 @@
 ---
-title: Tvorba Moodboardu pro náš web
-
-    
+title: Tvorba Moodboardu pro náš web 
 ---
 
  
