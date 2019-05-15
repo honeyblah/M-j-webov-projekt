@@ -14,6 +14,9 @@ tags:
 <p>Místo utrácení peněz za autobus a vlak je tu vždycky levnější možnost, a to cesta stopem. Je to jeden z nejdobrodružnějších typů dopravy, při kterém nikdy nevíte, co můžete zažít. Může to být jeden z vašich největších zážitků života, ale i vaše největší noční můra. Abyste si cestu stopem užili musíte být velice flexibilní, jako mít dostatek času tak i možnost ihned změnit plány. Stopem se dostaneme skoro všude, spousta lidí jím objela celý svět, prostopovala nejzapadlejší kouty Asie a projela napříč USA, často se dojedete na spoustu míst, kam jste se vůbec neplánovali dostat nebo jste o nich ani neslyšeli. Nebo jsou o několik stovek kilometrů vedle. Cesta nemusí být úplně zadarmo někdy bude nutné zaplatit něco na benzín, jsou však různé formy někdy pojedete autem jinde na koňském povozu a někde třeba na lodi.</p>
 **K.K.**
 
+
+<img src="https://is.muni.cz/auth/www/429305-top_foto1-b8dwa.jpg" width="655">
+
 **Couchsurfing aneb ubytování zadarmo**
 <p>Chcete na svých cestách, co nejmíň utratit za ubytování nebo jen přespání? To není žádný problém a jde to i úplně zadarmo! Couchsurfing je webová stránka, která tohle všechno umožňuje, stačí si jen bezplatně založit osobní profil. Jde to samozřejmě i opačně a právě Vy můžete být hostiteli cestovatelů z celého světa. O tom, ale někdy jindy. Stačí si tedy založit profil s fotkou a s pravdivými informacemi o sobě. Důležité jsou i reference, které získáte, protože podle nich se hostitelé budou rozhodovat, zda Vás u sebe nechají přespat, proto se raději vyhněte nadávkám a opileckému zvracení v cizím domě. Stejně důležitá je poté komunikace s hostitelem, angličtina je tedy výhodou, a aktualizace profilu – profilové fotky, věku, záměru cesty apod. Přejeme tedy šťastnou cestu a dobré spaní!</p>
 **H.B.**
