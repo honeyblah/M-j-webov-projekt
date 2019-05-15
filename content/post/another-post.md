@@ -1,6 +1,6 @@
 ---
 title: Tvorba Moodboardu pro náš web
-
+date: 2019-05-15
 tags: cestování
 ---
 
