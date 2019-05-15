@@ -1,17 +1,13 @@
 ---
-title:  "Welcome to Hugo!!!!"
+title:  "Články"
 date:   2018-03-13
 tags: 
-    - hello world
-    - start
-    - hugo
+    - cestování
+    - low cost
+    - články
 ---
-You’ll find this post in your `content/post` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command `hugo server`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `content/post` directory that follows the convention `name-of-post.md` and includes the necessary front matter. You can even create it with command `hugo new post/name-of-post.md` (you need to be at site's root folder). Take a look at the source for this post to get an idea about how it works.
-
-When you want to publish an article, simply remove `draft: true` from it's front matter.
-
+**Jak ušetřit na jídle při cestování?**
+Pokud se chceme vydat na výlet delší než jeden den, nestačí nám jedna svačina do baťohu. Musíme vše lépe naplánovat, protože každé kilo na zádech je znát. V případě, že cestujeme pěšky přírodou, je dobré mít plynový vařič- cca půl kila. Pokud se nám  nechce nosit plynnovou bombičku nebo spíše, vodu kterou k vaření budeme potřebovat, je dobré zaměřit se na trvalivé potraviny, a to nejlépe samoohřívací. Princip ohřívání funguje na chemické reakci mezi směsí oxidu vápenatého s hliníkovým práškem a vodou. Množství vody je však daleko menší, než při vaření na vařiči. Ohřev trvá 12-18 minut. Do samoohřevu můžeme vložit prakticky jakékoliv jídlo v sáčku Další praktickou potravinou je sušené maso. 
 
 ## What's next?
 
