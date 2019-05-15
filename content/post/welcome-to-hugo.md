@@ -18,6 +18,8 @@ tags:
 <p>Chcete na svých cestách, co nejmíň utratit za ubytování nebo jen přespání? To není žádný problém a jde to i úplně zadarmo! Couchsurfing je webová stránka, která tohle všechno umožňuje, stačí si jen bezplatně založit osobní profil. Jde to samozřejmě i opačně a právě Vy můžete být hostiteli cestovatelů z celého světa. O tom, ale někdy jindy. Stačí si tedy založit profil s fotkou a s pravdivými informacemi o sobě. Důležité jsou i reference, které získáte, protože podle nich se hostitelé budou rozhodovat, zda Vás u sebe nechají přespat, proto se raději vyhněte nadávkám a opileckému zvracení v cizím domě. Stejně důležitá je poté komunikace s hostitelem, angličtina je tedy výhodou, a aktualizace profilu – profilové fotky, věku, záměru cesty apod. Přejeme tedy šťastnou cestu a dobré spaní!</p>
 **H.B.**
 
+<img src="https://is.muni.cz/auth/www/couch.jpg" width="655">
+
 
 ## What's next?
 
