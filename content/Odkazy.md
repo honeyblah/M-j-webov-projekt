@@ -6,7 +6,8 @@ menu:
 ---
 
  
-<p>http://lowcost-traveling.com/
+<p>
+http://lowcost-traveling.com/
 http://www.lowcostrace.com/
 https://www.nomadicmatt.com/travel-blogs/the-ultimate-guide-to-traveling-when-you-have-no-money/
 https://worldtravelfamily.com/ways-to-travel-for-free/
