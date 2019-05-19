@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=qEyL-tjWyMc
 https://www.youtube.com/watch?v=R7vmHGAshi8
 
 
-**Vizuální inspirace: **
+**Vizuální inspirace:**
 https://www.weefsworld.eu/
 https://www.instagram.com/lowkostak/
 </p>
