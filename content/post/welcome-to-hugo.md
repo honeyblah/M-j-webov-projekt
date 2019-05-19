@@ -8,7 +8,7 @@ tags:
 ---
 **Jak ušetřit na jídle při cestování?**
 <p>Pokud se chceme vydat na výlet delší než jeden den, nestačí nám jedna svačina do baťohu. Musíme vše lépe naplánovat, protože každé kilo na zádech je znát. V případě, že cestujeme pěšky přírodou, je dobré mít plynový vařič- cca půl kila. Pokud se nám  nechce nosit plynnovou bombičku nebo spíše, vodu kterou k vaření budeme potřebovat, je dobré zaměřit se na trvalivé potraviny, a to nejlépe samoohřívací. Princip ohřívání funguje na chemické reakci mezi směsí oxidu vápenatého s hliníkovým práškem a vodou. Množství vody je však daleko menší, než při vaření na vařiči. Ohřev trvá 12-18 minut. Do samoohřevu můžeme vložit prakticky jakékoliv jídlo v sáčku Další praktickou potravinou je sušené maso.</p>
-**M.H.**
+**M.H.**<br>
 
 <img src="https://is.muni.cz/auth/www/447034/jidlo_na_cesty.png" width="555">
 
