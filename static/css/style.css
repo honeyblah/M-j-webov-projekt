@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 30px auto;
+  margin: 50px auto;
   max-width: 800px;
   padding: 20px;
 }
@@ -18,7 +18,7 @@ header {
 
 h1{
   font-family:  Bookman Old Style;
-  font-size: 5em;
+  font-size: 15em;
   text-align: center;
   color: black;
   
