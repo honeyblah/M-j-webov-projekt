@@ -1,6 +1,17 @@
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140446639-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-140446639-1');
+</script>
+
 title: Archiv
 ---
+
 menu:
   main:
     weight: 30
@@ -8,11 +19,9 @@ menu:
 
 Název: Tvorba Moodboardu pro náš web
 
-<p>Zde jsou tři různé moodboardy, tři různé pohledy na naše společné Low Cost cestování </p>
+<p> </p>
 
-<h1> Moodboard Magdík
-
-https://www.canva.com/design/DADYsy_jjGA/share/preview?token=ag6KUAEiKSd2XdVCDMeRZA&role=EDITOR&utm_content=DADYsy_jjGA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+<h1> 
 
 
   
