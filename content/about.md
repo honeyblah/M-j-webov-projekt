@@ -1,5 +1,6 @@
 ---
 title: O nás
+date:   2019-06-06
 menu:
   main:
     weight: 30
@@ -19,7 +20,6 @@ Název: Low Cost Cestování
 -	Co mít vždy u sebe při cestování a jak se nenechat na cestách okrást <br>
 -	Výhody cestování sám X výhody cestování v páru nebo s kamarádem <br>
 -	Poradíme jak si při cestách přivydělat nebo dokonce vydělávat <br>
-
   
  
 </p>
