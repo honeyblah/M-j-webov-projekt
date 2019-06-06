@@ -1,5 +1,6 @@
 ---
 title: O nás
+date:   2019-06-06
 menu:
   main:
     weight: 30
